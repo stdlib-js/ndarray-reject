@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-reject@esm/index.mjs';
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-reject@v0.1.1-esm/index.mjs';
 ```
 
 #### reject( x\[, options], predicate\[, thisArg] )
@@ -201,7 +201,7 @@ import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-arra
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 var isPositive = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-positive-number' ).isPrimitive;
-import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-reject@esm/index.mjs';
+import reject from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-reject@v0.1.1-esm/index.mjs';
 
 var buffer = discreteUniform( 10, -100, 100, {
     'dtype': 'generic'
