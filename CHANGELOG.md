@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-09-18)
+
+<section class="features">
+
+### Features
+
+-   [`f6e94bd`](https://github.com/stdlib-js/stdlib/commit/f6e94bdde9601a2e893feb6c30f6c07a0d97a220) - add float16 dtype support to `ndarray/reject` [(#15278)](https://github.com/stdlib-js/stdlib/pull/15278)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`f6e94bd`](https://github.com/stdlib-js/stdlib/commit/f6e94bdde9601a2e893feb6c30f6c07a0d97a220) - **feat:** add float16 dtype support to `ndarray/reject` [(#15278)](https://github.com/stdlib-js/stdlib/pull/15278) _(by Samarth Kolarkar)_
 -   [`5aadc76`](https://github.com/stdlib-js/stdlib/commit/5aadc76d03d8e3c511de2f14131be73dfe118af9) - **bench:** refactor to use string interpolation in `ndarray` [(#11445)](https://github.com/stdlib-js/stdlib/pull/11445) _(by Karan Anand)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Samarth Kolarkar
 
 </section>
 
